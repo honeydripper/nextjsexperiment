@@ -1,0 +1,25 @@
+.createPost {
+  font: 13px Helvetica, Arial;
+  border: 1px solid #eee;
+  padding: 10px;
+  margin: 10px 0;
+
+  input, textarea {
+    display: block;
+    margin: 10px;
+    width: 80%;
+  }
+  button {
+    margin: 10px;
+  }
+  textarea {
+    height: 50px;
+  }
+
+  label {
+    margin: 0 10px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+}
